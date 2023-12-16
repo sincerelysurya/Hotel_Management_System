@@ -1,39 +1,73 @@
-The objective of this project is to develop a centralized system to manage various operations of a hotel, including booking, check-in, check-out, room management, billing, and reporting for hotel staff, keeping it user-friendly and accessible.
+Hotel Management System Project
+Objective:
+Develop a centralized system for Chippewa Hotel, Mount Pleasant, to streamline hotel operations, including booking, check-in, check-out, room management, billing, and reporting. Prioritizing user-friendliness and accessibility.
 
-## Company Background
+Company Background:
 
-**Organization Name:** Chippewa Hotel  
-A hotel in Mount Pleasant that provides accommodations for both locals and tourists. The current manual system using pen and paper for booking, check-in, and check-out registers is to be replaced with a centralized information system for improved efficiency, security, and business insights.
+Organization Name: Chippewa Hotel
+Located in Mount Pleasant, serving both locals and tourists.
+Transitioning from a manual pen-and-paper system to a centralized information system for enhanced efficiency and business insights.
+Description:
 
-## Description
+GUI development using Python (vX) and tkinter, interfacing with SQLite3 (vY) database.
+Utilizing entity relationship and data flow diagrams for database structure and information flow visualization.
+Integration with Tableau (vZ) for advanced data visualization and analytics.
+Scope:
 
-A GUI is created using the Python programming language (version X) and its tkinter package, communicating with an SQLite3 database (version Y). An entity relationship diagram and a data flow diagram are designed to depict the database structure and information flow. Additionally, a connection will be established between the database and Tableau (version Z) for data visualization and analytics.
+GUI-based system accessible online.
+Features: room booking, room management, check-in/check-out, billing, and reporting.
+Technologies:
 
-## Scope
+Front-end: PyCharm (vA), Python (vB), Tkinter (vC).
+Database: SQLite3 (vY).
+Design: Lucid chart (vD).
+Design Techniques: ERD, DFD.
+Getting Started:
 
-The system will be GUI-based, accessible from any computer with an internet connection, and include functionalities such as room booking, room management, check-in/check-out, billing, and reporting.
+Clone the repository.
+Run pip install -r requirements.txt.
+...
+Expected Outcomes:
 
-## Technologies
+Enhanced operational efficiency through process automation.
+Improved guest satisfaction with a streamlined booking process.
+Informed decision-making with real-time access to occupancy, revenue, and guest data.
+Deliverables:
 
-- **Front-end development:** PyCharm (version A), Python language (version B), GUI development library (Tkinter, version C)
-- **Database management system:** SQLite3 (version Y)
-- **Design tool:** Lucid chart (version D)
-- **Design techniques:** ERD, DFD
+Fully functional GUI-based hotel management information system.
+User manual and documentation (see docs folder).
+Staff training on system usage.
 
-## Getting Started
+User Interface (Created):
+Explore the user-friendly interface for efficient hotel management.
 
-1. Clone the repository.
-2. Run `pip install -r requirements.txt`.
-3. ...
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/779a3040-059f-4d71-b7c9-2804b097ab7c)
 
-## Expected Outcomes
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/4bfe2c24-3816-490e-8ec6-3878fe09640d)
 
-- Improved operational efficiency through process automation.
-- Increased guest satisfaction with a streamlined booking process.
-- Improved decision-making through real-time access to occupancy, revenue, and guest data.
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/9a2bad37-f451-40cd-845b-a3b8bf07f692)
 
-## Deliverables
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/715c8502-4412-4884-ad57-0ea74ac5f424)
 
-- A fully functional GUI-based hotel management information system.
-- User manual and documentation (located in the `docs` folder).
-- Training for hotel staff on system usage.
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/01d21f89-48fa-4459-a82f-5a6049f142f8)
+
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/7fb8145b-a409-41c2-9889-7c5d2450630a)
+
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/315586cb-e69c-4d75-9f05-784f4eedbcd2)
+
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/13d80fd7-860f-4f09-a041-854fffc8effe)
+
+
+Create a structured database to support the functionalities of the Chippewa Hotel Management System.
+
+Tables:
+
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/ef1225a5-993b-42c7-87c2-22487898462c)
+
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/78383257-8be5-4ae4-abc8-62091c7d68c8)
+
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/15365d8c-8bb6-4cbb-ad0b-f57c6d613253)
+
+![image](https://github.com/sincerelysurya/Hotel_Management_System/assets/153872571/68f07630-de9b-499f-a15a-e1a626d38a62)
+
+
