@@ -2,6 +2,25 @@ Hotel Management System Project
 Objective:
 Develop a centralized system for Chippewa Hotel, Mount Pleasant, to streamline hotel operations, including booking, check-in, check-out, room management, billing, and reporting. Prioritizing user-friendliness and accessibility.
 
+User Interface (Created):
+Explore the user-friendly interface for efficient hotel management.
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen1.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen2.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen3.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen4.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen5.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen6.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen7.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen8.png)
+
 Company Background:
 
 Organization Name: Chippewa Hotel
@@ -37,26 +56,6 @@ Deliverables:
 Fully functional GUI-based hotel management information system.
 User manual and documentation (see docs folder).
 Staff training on system usage.
-
-User Interface (Created):
-Explore the user-friendly interface for efficient hotel management.
-
-![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen1.png)
-
-![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen2.png)
-
-![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen3.png)
-
-![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen4.png)
-
-![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen5.png)
-
-![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen6.png)
-
-![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen7.png)
-
-![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen8.png)
-
 
 Create a structured database to support the functionalities of the Chippewa Hotel Management System.
 
