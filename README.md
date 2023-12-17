@@ -43,11 +43,32 @@ Explore the user-friendly interface for efficient hotel management.
 
 ![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen1.png)
 
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen2.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen3.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen4.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen5.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen6.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen7.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen8.png)
 
 
 Create a structured database to support the functionalities of the Chippewa Hotel Management System.
 
 Tables:
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Table1.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Table2.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Table3.png)
+
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Table4.png)
 
 
 
