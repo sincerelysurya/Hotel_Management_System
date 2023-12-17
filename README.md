@@ -41,7 +41,7 @@ Staff training on system usage.
 User Interface (Created):
 Explore the user-friendly interface for efficient hotel management.
 
-
+![](https://github.com/sincerelysurya/Hotel_Management_System/blob/main/images/Screen1.png)
 
 
 
